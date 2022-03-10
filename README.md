@@ -4,8 +4,15 @@ Description- The dataset consists of several medical predictor variables and one
 Objective of this project is to build a Machine Learning model that is capable of predicting if a patient has diabetes.
 
 Libraries used:
-1.Pandas
-2.Numpy
-3.Sklearn
-4.Matplotlib
-5.Seaborn
+1. Pandas
+
+2. Numpy
+
+3. Sklearn
+
+4. Matplotlib
+
+5. Seaborn
+
+
+Dataset link: https://www.kaggle.com/uciml/pima-indians-diabetes-database
